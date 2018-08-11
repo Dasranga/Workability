@@ -1,0 +1,1504 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lunetten</title>
+    <ns>0</ns>
+    <id>3044682</id>
+    <revision>
+      <id>26970067</id>
+      <timestamp>2005-10-31T12:22:38Z</timestamp>
+      <contributor>
+        <ip>83.83.63.2</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Lunetten is a neighbourhood in the south part of Utrecht and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' now because there is no significant industrie present these days.</text>
+      <sha1>5v5nl2udnudopzttpf1ikxqvgt12t6n</sha1>
+    </revision>
+    <revision>
+      <id>33890998</id>
+      <parentid>26970067</parentid>
+      <timestamp>2006-01-04T21:48:08Z</timestamp>
+      <contributor>
+        <ip>85.147.241.94</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Lunetten is a neighbourhood in the south part of Utrecht and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+see what is going on (in dutch): [http://www.lunnetten.nl]</text>
+      <sha1>ey9co4mzzivon93wk3rh84jlpeubagz</sha1>
+    </revision>
+    <revision>
+      <id>44226168</id>
+      <parentid>33890998</parentid>
+      <timestamp>2006-03-17T16:09:50Z</timestamp>
+      <contributor>
+        <username>Bluebot</username>
+        <id>527862</id>
+      </contributor>
+      <comment>bold formatting title using [[Wikipedia:AutoWikiBrowser|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of Utrecht and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+see what is going on (in dutch): [http://www.lunnetten.nl]
+
+
+{{stub}}</text>
+      <sha1>3o9q6clpf21p05t2ne0kldjwnknzyvu</sha1>
+    </revision>
+    <revision>
+      <id>44232170</id>
+      <parentid>44226168</parentid>
+      <timestamp>2006-03-17T17:01:31Z</timestamp>
+      <contributor>
+        <username>LrdChaos</username>
+        <id>161755</id>
+      </contributor>
+      <comment>Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Netherlands-geo-stub}}</text>
+      <sha1>4jwekkahsluko1a27ftnycodp5o04je</sha1>
+    </revision>
+    <revision>
+      <id>47717337</id>
+      <parentid>44232170</parentid>
+      <timestamp>2006-04-09T17:00:55Z</timestamp>
+      <contributor>
+        <username>Eugene van der Pijll</username>
+        <id>22016</id>
+      </contributor>
+      <minor />
+      <comment>restub</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}</text>
+      <sha1>0c291d9j0s8qodqd7sps21if8273wlq</sha1>
+    </revision>
+    <revision>
+      <id>47931800</id>
+      <parentid>47717337</parentid>
+      <timestamp>2006-04-11T09:45:01Z</timestamp>
+      <contributor>
+        <username>FlaBot</username>
+        <id>228773</id>
+      </contributor>
+      <minor />
+      <comment>robot  Adding: nl</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten]]</text>
+      <sha1>oy75vmmaziv7v5ktvjhhcvr5w9fdw6y</sha1>
+    </revision>
+    <revision>
+      <id>49638271</id>
+      <parentid>47931800</parentid>
+      <timestamp>2006-04-22T19:46:59Z</timestamp>
+      <contributor>
+        <username>TimBentley</username>
+        <id>531594</id>
+      </contributor>
+      <minor />
+      <comment>Disambiguation link repair - [[Wikipedia:Disambiguation pages with links|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (province)|Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten]]</text>
+      <sha1>tcsitduhi9081jo25dkf0bxrgmqsgwo</sha1>
+    </revision>
+    <revision>
+      <id>49639203</id>
+      <parentid>49638271</parentid>
+      <timestamp>2006-04-22T19:53:57Z</timestamp>
+      <contributor>
+        <username>Eugene van der Pijll</username>
+        <id>22016</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten]]</text>
+      <sha1>7ci5xokjxjsdw9uzwlwzdth3cln8i8r</sha1>
+    </revision>
+    <revision>
+      <id>57665937</id>
+      <parentid>49639203</parentid>
+      <timestamp>2006-06-09T07:21:55Z</timestamp>
+      <contributor>
+        <username>Thijs!bot</username>
+        <id>1392310</id>
+      </contributor>
+      <minor />
+      <comment>robot  Modifying: [[nl:Lunetten (Utrecht)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12.000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>igdeklbi0t3sa3qewx11mbi9j3mpygw</sha1>
+    </revision>
+    <revision>
+      <id>137704994</id>
+      <parentid>57665937</parentid>
+      <timestamp>2007-06-12T16:32:17Z</timestamp>
+      <contributor>
+        <ip>206.47.220.230</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>3lawbz72j9wo631vlna6e8uq1aue6lw</sha1>
+    </revision>
+    <revision>
+      <id>151385805</id>
+      <parentid>137704994</parentid>
+      <timestamp>2007-08-15T13:34:15Z</timestamp>
+      <contributor>
+        <username>The Anomebot2</username>
+        <id>1979668</id>
+      </contributor>
+      <comment>Adding geodata: {{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>nc5pzdqqhw3szttoy0wgsh1l31qbj33</sha1>
+    </revision>
+    <revision>
+      <id>232844541</id>
+      <parentid>151385805</parentid>
+      <timestamp>2008-08-19T05:36:26Z</timestamp>
+      <contributor>
+        <ip>210.205.33.195</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]
+'''Lunetten''' is a leading pista single gear company. '''Lunetten''' cycles are manufactured by Jan from Netherland.</text>
+      <sha1>65z0mlul4czvmuuexkyxdl52zzakjlq</sha1>
+    </revision>
+    <revision>
+      <id>232844698</id>
+      <parentid>232844541</parentid>
+      <timestamp>2008-08-19T05:37:39Z</timestamp>
+      <contributor>
+        <ip>210.205.33.195</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">
+'''Lunetten''' is a leading pista single gear company. '''Lunetten''' cycles are manufactured by Jan from Netherland.</text>
+      <sha1>aq5pbiekkdbiur0vi7ako8sow83ps3a</sha1>
+    </revision>
+    <revision>
+      <id>233296048</id>
+      <parentid>232844698</parentid>
+      <timestamp>2008-08-21T10:28:08Z</timestamp>
+      <contributor>
+        <username>Latics</username>
+        <id>4656569</id>
+      </contributor>
+      <comment>tag as stub</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a leading pista single gear company. '''Lunetten''' cycles are manufactured by Jan from Netherland.
+
+{{corp-stub}}</text>
+      <sha1>bwe27krl8nc4gxhdejm0e18wv35y43q</sha1>
+    </revision>
+    <revision>
+      <id>233478951</id>
+      <parentid>233296048</parentid>
+      <timestamp>2008-08-22T05:16:17Z</timestamp>
+      <contributor>
+        <ip>210.205.33.195</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:http://2.bp.blogspot.com/_ymwFhqeJmcI/SK2Zh0pHIkI/AAAAAAAAAAY/uYMKgSgg318/s320/Pista_Sticker_big.jpg]]
+'''Lunetten''' is a pista single gear company. '''Lunetten''' cycles are manufactured by Jan from Netherland.
+'''Lunetten''' frame sets are all hand-made and polished by hands as well.    
+
+{{corp-stub}}</text>
+      <sha1>09s9yhvxkti0vmoh85lun3vtxoqoezh</sha1>
+    </revision>
+    <revision>
+      <id>233478988</id>
+      <parentid>233478951</parentid>
+      <timestamp>2008-08-22T05:16:40Z</timestamp>
+      <contributor>
+        <username>XLinkBot</username>
+        <id>6163802</id>
+      </contributor>
+      <comment>BOT--Reverting edits by [[:en:Special:Contributions/210.205.33.195|210.205.33.195]] to revision 233296048 (rule: '\bblogspot\.com' (link(s): http://2.bp.blogspot.com/_ymwFhqeJmcI/SK2Zh0pHIkI/AAAAAAAAAAY/uYMKgSgg318/s320/Pista_Sticker_big.jpg) )</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a leading pista single gear company. '''Lunetten''' cycles are manufactured by Jan from Netherland.
+
+{{corp-stub}}</text>
+      <sha1>bwe27krl8nc4gxhdejm0e18wv35y43q</sha1>
+    </revision>
+    <revision>
+      <id>233481572</id>
+      <parentid>233478988</parentid>
+      <timestamp>2008-08-22T05:43:29Z</timestamp>
+      <contributor>
+        <username>Neverbeen2NY</username>
+        <id>7694528</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Pista_Sticker_big.jpg]]&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+'''''Lunetten''''' is a pista single gear company. '''''Lunetten''''' cycles are manufactured by Jan from Netherland.&lt;br /&gt;
+'''''Lunetten''''' frame sets are all hand-made and polished by hands as well.  &lt;br /&gt;
+The produts from '''lunetten''' has what pista wants and also the great price.</text>
+      <sha1>sjx1tb5xzw0mhavowxhf3hj570216f3</sha1>
+    </revision>
+    <revision>
+      <id>235122328</id>
+      <parentid>233481572</parentid>
+      <timestamp>2008-08-30T04:02:30Z</timestamp>
+      <contributor>
+        <username>SieBot</username>
+        <id>4005189</id>
+      </contributor>
+      <minor />
+      <comment>robot  Adding: [[nl:Lunetten (Utrecht)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Pista_Sticker_big.jpg]]&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+'''''Lunetten''''' is a pista single gear company. '''''Lunetten''''' cycles are manufactured by Jan from Netherland.&lt;br /&gt;
+'''''Lunetten''''' frame sets are all hand-made and polished by hands as well.  &lt;br /&gt;
+The produts from '''lunetten''' has what pista wants and also the great price.
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>dga9rmxxzaw88rv3hdz8k4j3ai9aa20</sha1>
+    </revision>
+    <revision>
+      <id>241043732</id>
+      <parentid>235122328</parentid>
+      <timestamp>2008-09-26T02:25:39Z</timestamp>
+      <contributor>
+        <ip>91.141.253.241</ip>
+      </contributor>
+      <comment>Revert, advertising vandalism</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>nc5pzdqqhw3szttoy0wgsh1l31qbj33</sha1>
+    </revision>
+    <revision>
+      <id>242769061</id>
+      <parentid>241043732</parentid>
+      <timestamp>2008-10-03T15:52:30Z</timestamp>
+      <contributor>
+        <username>Mariposa di milano</username>
+        <id>7994301</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+
+
+----
+[[Image:Pista_Sticker_big.jpg]]
+
+
+'''Lunetten''' is a pista single gear company that produces nice bicycles with good price. &lt;br /&gt;'''Lunetten''' cycles are manufactured by Jan from Netherland, who has been in the cycling business for more than 20 years.&lt;br /&gt;'''Lunetten''' frame sets are all hand-made and polished by hands as well.</text>
+      <sha1>e872a97k4wfsuyfm5p9krj9hpp824vf</sha1>
+    </revision>
+    <revision>
+      <id>243691504</id>
+      <parentid>242769061</parentid>
+      <timestamp>2008-10-07T17:15:35Z</timestamp>
+      <contributor>
+        <username>WikiDan61</username>
+        <id>7332659</id>
+      </contributor>
+      <comment>Removed unrelated information about a Company that happens to be located in this location.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>nc5pzdqqhw3szttoy0wgsh1l31qbj33</sha1>
+    </revision>
+    <revision>
+      <id>348722659</id>
+      <parentid>243691504</parentid>
+      <timestamp>2010-03-09T12:16:07Z</timestamp>
+      <contributor>
+        <ip>85.147.240.79</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present, except some coal mines.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>0xkhjxcyka78khjxg8sxjhtvb5msnd4</sha1>
+    </revision>
+    <revision>
+      <id>348722876</id>
+      <parentid>348722659</parentid>
+      <timestamp>2010-03-09T12:18:06Z</timestamp>
+      <contributor>
+        <ip>85.147.240.79</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{Utrecht-geo-stub}}
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>nc5pzdqqhw3szttoy0wgsh1l31qbj33</sha1>
+    </revision>
+    <revision>
+      <id>352946773</id>
+      <parentid>348722876</parentid>
+      <timestamp>2010-03-30T13:24:43Z</timestamp>
+      <contributor>
+        <username>DiiCinta</username>
+        <id>11677890</id>
+      </contributor>
+      <minor />
+      <comment>clean up, added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>385wl735eooalsszli07j13npwzjhhv</sha1>
+    </revision>
+    <revision>
+      <id>370695221</id>
+      <parentid>352946773</parentid>
+      <timestamp>2010-06-28T23:54:44Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <minor />
+      <comment>Adding category [[:Category:Utrecht (city)]] (using [[WP:HOTCAT|HotCat]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]
+
+[[Category:Utrecht (city)]]</text>
+      <sha1>b737qb0lwwrmcb3fok235f5m0ir4fs2</sha1>
+    </revision>
+    <revision>
+      <id>370695264</id>
+      <parentid>370695221</parentid>
+      <timestamp>2010-06-28T23:55:00Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <minor />
+      <comment>Removed [[:Category:Utrecht (city)]]; Adding category [[:Category:Districts in Utrecht (city)]] (using [[WP:HOTCAT|HotCat]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+'''Lunetten''' is a neighbourhood in the south part of [[Utrecht (city)|Utrecht]] and has approximately 12,000 inhabitants. It was constructed during the late 1970s until the early 1990s. It is mainly a 'sleeping neighbourhood' because there is no significant industry present.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]
+
+
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>jvaiq4b1ts7qt0sdte0exak1z3ys2gh</sha1>
+    </revision>
+    <revision>
+      <id>457953440</id>
+      <parentid>370695264</parentid>
+      <timestamp>2011-10-29T10:45:27Z</timestamp>
+      <contributor>
+        <username>NeoRetro</username>
+        <id>10039036</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+[[Afbeelding:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on Open Street Maps]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an unban experiment mostly during the 1970s and 80s. It was desinged and planned by a combination of students of architecture and urban planning and the then forseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becomming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]
+
+
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>c4tg3pnpcknxnu98mdjpyn7ph4j1m6l</sha1>
+    </revision>
+    <revision>
+      <id>458326913</id>
+      <parentid>457953440</parentid>
+      <timestamp>2011-10-31T17:25:30Z</timestamp>
+      <contributor>
+        <username>NeoRetro</username>
+        <id>10039036</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on Open Street Maps]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an unban experiment mostly during the 1970s and 80s. It was desinged and planned by a combination of students of architecture and urban planning and the then forseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becomming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]
+
+
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>ecbluz7irsy5g2bdbhi2vrqb6i6skep</sha1>
+    </revision>
+    <revision>
+      <id>458327415</id>
+      <parentid>458326913</parentid>
+      <timestamp>2011-10-31T17:29:03Z</timestamp>
+      <contributor>
+        <username>NeoRetro</username>
+        <id>10039036</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{orphan|date=March 2010}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on Open Street Maps]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was desinged and planned by a combination of students of architecture and urban planning and the then forseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becomming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]
+
+
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>3j2b9mhpo6o93lm99qpumwx9ed8ka82</sha1>
+    </revision>
+    <revision>
+      <id>460199928</id>
+      <parentid>458327415</parentid>
+      <timestamp>2011-11-11T22:39:51Z</timestamp>
+      <contributor>
+        <username>TutterMouse</username>
+        <id>6778186</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]] and gen fixes, typos fixed: becomming → becoming, desinged → designed, forseen → foreseen, added [[WP:WFY|wikify]] tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Wikify|date=November 2011}}
+
+{{orphan|date=March 2010}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on Open Street Maps]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>6rkkn0jnmfhe4piwzpy0bmeti02sko7</sha1>
+    </revision>
+    <revision>
+      <id>474886529</id>
+      <parentid>460199928</parentid>
+      <timestamp>2012-02-04T01:33:40Z</timestamp>
+      <contributor>
+        <username>Malenki</username>
+        <id>1370177</id>
+      </contributor>
+      <minor />
+      <comment>typo Open Street Map</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Wikify|date=November 2011}}
+
+{{orphan|date=March 2010}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on OpenStreetMap]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>2eeb7zpmhxh2cpgzwjzb4cfo7s08lae</sha1>
+    </revision>
+    <revision>
+      <id>516199601</id>
+      <parentid>474886529</parentid>
+      <timestamp>2012-10-05T19:32:32Z</timestamp>
+      <contributor>
+        <username>Redalert2fan</username>
+        <id>17311078</id>
+      </contributor>
+      <comment>Added {{[[Template:update|update]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{update|date=October 2012}}
+{{Wikify|date=November 2011}}
+
+{{orphan|date=March 2010}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on OpenStreetMap]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>7z7ret3zmt7itywf4n4bsq526vylvr6</sha1>
+    </revision>
+    <revision>
+      <id>524414473</id>
+      <parentid>516199601</parentid>
+      <timestamp>2012-11-22T21:42:49Z</timestamp>
+      <contributor>
+        <username>Delusion23</username>
+        <id>13791663</id>
+      </contributor>
+      <comment>replaced with underlinked</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+{{orphan|date=March 2010}}
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|right|300|A map of Lunetten on OpenStreetMap]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>bp3imueafef9x0bn8pzix40fdwt5hkq</sha1>
+    </revision>
+    <revision>
+      <id>528431233</id>
+      <parentid>524414473</parentid>
+      <timestamp>2012-12-17T06:03:24Z</timestamp>
+      <contributor>
+        <username>Lotje</username>
+        <id>10434788</id>
+      </contributor>
+      <comment>{{Commonscat}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+{{orphan|date=March 2010}}
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>fmfyf2bq7wm6g8k3070jsp7njl125z6</sha1>
+    </revision>
+    <revision>
+      <id>532115318</id>
+      <parentid>528431233</parentid>
+      <timestamp>2013-01-09T04:35:09Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Addbot|Bot:]] Removing Orphan Tag (Nolonger an Orphan) ([[User_talk:Addbot|Report Errors]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}
+
+[[nl:Lunetten (Utrecht)]]</text>
+      <sha1>qrvegl7x7mhpdgzb1qr1rahqglmbdhx</sha1>
+    </revision>
+    <revision>
+      <id>544181080</id>
+      <parentid>532115318</parentid>
+      <timestamp>2013-03-14T20:10:31Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2302806]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In Dutch this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sportsfacilities within and around Lunetten.
+
+Lunetten is surrounded by major railroads and highways. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}</text>
+      <sha1>rcvsrwi1t52gu5i35w6b347ubr9rpez</sha1>
+    </revision>
+    <revision>
+      <id>552134978</id>
+      <parentid>544181080</parentid>
+      <timestamp>2013-04-25T15:38:46Z</timestamp>
+      <contributor>
+        <username>Harosed</username>
+        <id>18904560</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [Dutch] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [railroads] and [highways]. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}</text>
+      <sha1>k74ks9oyxbtakj8dafbfhy8949zdhwn</sha1>
+    </revision>
+    <revision>
+      <id>552135145</id>
+      <parentid>552134978</parentid>
+      <timestamp>2013-04-25T15:39:51Z</timestamp>
+      <contributor>
+        <username>Harosed</username>
+        <id>18904560</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}</text>
+      <sha1>ea4qfd9jz32u4qoovehdvhdm5y0zu3i</sha1>
+    </revision>
+    <revision>
+      <id>552457137</id>
+      <parentid>552135145</parentid>
+      <timestamp>2013-04-27T19:05:10Z</timestamp>
+      <contributor>
+        <username>LittleWink</username>
+        <id>9748448</id>
+      </contributor>
+      <minor />
+      <comment>[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Dutch]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{update|date=October 2012}}
+{{underlinked|date=November 2012}}
+
+}}
+
+[[Image:Kaart lunetten utrecht.png|thumb|A map of Lunetten on [[OpenStreetMap]]]]
+'''Lunetten''' is a neighbourhood in the southeastern part of the city of [[Utrecht (city)|Utrecht]], that has approximately 12,000 inhabitants. It is mainly a residential area, since there is no significant industry present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of architecture and urban planning and the then foreseen future inhabitants. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighborhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and pollution a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+
+[[Category:Districts in Utrecht (city)]]
+
+
+{{Utrecht-geo-stub}}</text>
+      <sha1>fxd2cj4azmrq0ctowdbhn7xelewfv1k</sha1>
+    </revision>
+    <revision>
+      <id>555430577</id>
+      <parentid>552457137</parentid>
+      <timestamp>2013-05-16T22:23:16Z</timestamp>
+      <contributor>
+        <username>Nexusfirs</username>
+        <id>19026881</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunettes in the [[city]] of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht|Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt;  in the southeastern part of the city of [[Utrecht (city)|Utrecht]]&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; , that has approximately 12,000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]]. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole [[neighborhood]] becoming like a single [[living street]], much like a [[distinct]] [[village]] within a [[city]]. 
+
+Lunetten has a [[network]] of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+==Curiosity ==
+* Lunettes has the longest (140 meters) [[lightweight]] [[bridge]] in the [[world]] with a weight of 400 tonnes ([[Viaduct New Houtenseweg|Viaduct New Houtenseweg]]). This is located on the [[Rijksweg 27|A27]] on the [[weekend]] of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten]
+* [http://canonvanlunetten.nl/ Canon van Lunetten, een website over 2000 jaar geschiedenis van Lunetten]
+* [http://wikikids.wiki.kennisnet.nl/Lunetten Lunetten - Wikikids]
+* [http://wikimapia.org/#lat=52.06418&amp;lon=5.134306&amp;z=15&amp;l=26&amp;m=s&amp;v=2 Lunetten] in [[WikiMapia]] – wat is waar in Lunetten?
+* [http://people.cs.uu.nl/henkp/lunetten/rap/ Natuurlijk Lunetten] het integrale groenplan – wat groeit en bloeit er in Lunetten?
+* [http://www.mdh-imaging.nl/lunetten.html 360/360 panoramafoto's van Lunetten]
+* [http://www.hetutrechtsarchief.nl/zoeken/?q=lunetten&amp;s=collectie%2fbeeldmateriaal%2ffotografische_documenten&amp;p=1 Foto's van Lunetten in het Utrechts Archief]
+* [http://www.kunstenpubliekeruimte.nl/locatie_7.html Omgevingskunstwerk scholencomplex Lunetten, 1982]
+* [http://www.lunetten.nl/pub/historie/frame_rechts.html Historie Lunetten - lunetten.nl]
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>jm8t9ue2pdhfmbatcsjxm986ufgc71c</sha1>
+    </revision>
+    <revision>
+      <id>555431129</id>
+      <parentid>555430577</parentid>
+      <timestamp>2013-05-16T22:28:05Z</timestamp>
+      <contributor>
+        <username>Nexusfirs</username>
+        <id>19026881</id>
+      </contributor>
+      <comment>/* Curiosity */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunettes in the [[city]] of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht|Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt;  in the southeastern part of the city of [[Utrecht (city)|Utrecht]]&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; , that has approximately 12,000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]]. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole [[neighborhood]] becoming like a single [[living street]], much like a [[distinct]] [[village]] within a [[city]]. 
+
+Lunetten has a [[network]] of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+==Curiosity ==
+* Lunettes has the longest (140 meters) [[lightweight]] [[bridge]] in the [[world]] with a weight of 400 tonnes ([[Viaduct New Houtenseweg|Viaduct New Houtenseweg]]). This was constructed on the [[Rijksweg 27|A27]] on the [[weekend]] of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten]
+* [http://canonvanlunetten.nl/ Canon van Lunetten, een website over 2000 jaar geschiedenis van Lunetten]
+* [http://wikikids.wiki.kennisnet.nl/Lunetten Lunetten - Wikikids]
+* [http://wikimapia.org/#lat=52.06418&amp;lon=5.134306&amp;z=15&amp;l=26&amp;m=s&amp;v=2 Lunetten] in [[WikiMapia]] – wat is waar in Lunetten?
+* [http://people.cs.uu.nl/henkp/lunetten/rap/ Natuurlijk Lunetten] het integrale groenplan – wat groeit en bloeit er in Lunetten?
+* [http://www.mdh-imaging.nl/lunetten.html 360/360 panoramafoto's van Lunetten]
+* [http://www.hetutrechtsarchief.nl/zoeken/?q=lunetten&amp;s=collectie%2fbeeldmateriaal%2ffotografische_documenten&amp;p=1 Foto's van Lunetten in het Utrechts Archief]
+* [http://www.kunstenpubliekeruimte.nl/locatie_7.html Omgevingskunstwerk scholencomplex Lunetten, 1982]
+* [http://www.lunetten.nl/pub/historie/frame_rechts.html Historie Lunetten - lunetten.nl]
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>qums7aggwcw0wnagpmmzpbnnadk7ccp</sha1>
+    </revision>
+    <revision>
+      <id>555471184</id>
+      <parentid>555431129</parentid>
+      <timestamp>2013-05-17T05:55:56Z</timestamp>
+      <contributor>
+        <username>Mark in wiki</username>
+        <id>700033</id>
+      </contributor>
+      <comment>page is empty</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunettes in the [[city]] of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht|Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt;  in the southeastern part of the city of [[Utrecht (city)|Utrecht]]&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; , that has approximately 12,000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]]. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole [[neighborhood]] becoming like a single [[living street]], much like a [[distinct]] [[village]] within a [[city]]. 
+
+Lunetten has a [[network]] of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+==Curiosity ==
+* Lunettes has the longest (140 meters) [[lightweight]] [[bridge]] in the [[world]] with a weight of 400 tonnes ([[Viaduct New Houtenseweg|Viaduct New Houtenseweg]]). This was constructed on the [[Rijksweg 27|A27]] on the [[weekend]] of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten]
+* [http://canonvanlunetten.nl/ Canon van Lunetten, een website over 2000 jaar geschiedenis van Lunetten]
+* [http://wikikids.wiki.kennisnet.nl/Lunetten Lunetten - Wikikids]
+* [http://wikimapia.org/#lat=52.06418&amp;lon=5.134306&amp;z=15&amp;l=26&amp;m=s&amp;v=2 Lunetten] in [[WikiMapia]] – wat is waar in Lunetten?
+* [http://people.cs.uu.nl/henkp/lunetten/rap/ Natuurlijk Lunetten] het integrale groenplan – wat groeit en bloeit er in Lunetten?
+* [http://www.mdh-imaging.nl/lunetten.html 360/360 panoramafoto's van Lunetten]
+* [http://www.kunstenpubliekeruimte.nl/locatie_7.html Omgevingskunstwerk scholencomplex Lunetten, 1982]
+* [http://www.lunetten.nl/pub/historie/frame_rechts.html Historie Lunetten - lunetten.nl]
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>0n55svu771u60vt47icf4n7tmbtz96m</sha1>
+    </revision>
+    <revision>
+      <id>555471472</id>
+      <parentid>555471184</parentid>
+      <timestamp>2013-05-17T05:59:53Z</timestamp>
+      <contributor>
+        <username>Mark in wiki</username>
+        <id>700033</id>
+      </contributor>
+      <comment>links were in Dutch - besides, Wikipedia is not a collection of links, people can google for themselves</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunettes in the [[city]] of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht|Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt;  in the southeastern part of the city of [[Utrecht (city)|Utrecht]]&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; , that has approximately 12,000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]]. The most striking result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole [[neighborhood]] becoming like a single [[living street]], much like a [[distinct]] [[village]] within a [[city]]. 
+
+Lunetten has a [[network]] of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.
+
+==Curiosity ==
+* Lunettes has the longest (140 meters) [[lightweight]] [[bridge]] in the [[world]] with a weight of 400 tonnes ([[Viaduct New Houtenseweg|Viaduct New Houtenseweg]]). This was constructed on the [[Rijksweg 27|A27]] on the [[weekend]] of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>iqnv61sq9pyb6yhzdalmtsqjy3m47d7</sha1>
+    </revision>
+    <revision>
+      <id>555471885</id>
+      <parentid>555471472</parentid>
+      <timestamp>2013-05-17T06:05:42Z</timestamp>
+      <contributor>
+        <username>Mark in wiki</username>
+        <id>700033</id>
+      </contributor>
+      <comment>copy-edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht (city)|Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes ([[Viaduct New Houtenseweg|Viaduct New Houtenseweg]]).{{cn}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>l3jz0wel779hoqpi62b9qpzovv27s83</sha1>
+    </revision>
+    <revision>
+      <id>555472949</id>
+      <parentid>555471885</parentid>
+      <timestamp>2013-05-17T06:20:33Z</timestamp>
+      <contributor>
+        <username>Mark in wiki</username>
+        <id>700033</id>
+      </contributor>
+      <comment>copy-edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon= 
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|Kunstwerk ''The Temple of Boom'' (1999) door [[Rob Birza]]]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht (city)|Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This [[urban]] setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city. 
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{cn}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>lenjx6uaxqv5tzdxdjz4tqdymjtptyq</sha1>
+    </revision>
+    <revision>
+      <id>555473146</id>
+      <parentid>555472949</parentid>
+      <timestamp>2013-05-17T06:23:41Z</timestamp>
+      <contributor>
+        <username>Mark in wiki</username>
+        <id>700033</id>
+      </contributor>
+      <comment>more copy-edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon=
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|''The Temple of Boom'' (1999) by Rob Birza]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city.
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{cn}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>eebwvimhx51rff7vmm3xsxjk6xn16dc</sha1>
+    </revision>
+    <revision>
+      <id>555474678</id>
+      <parentid>555473146</parentid>
+      <timestamp>2013-05-17T06:44:18Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor />
+      <comment>Dating maintenance tags: {{Cn}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon=
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|''The Temple of Boom'' (1999) by Rob Birza]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn|date=May 2013}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city.
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn|date=May 2013}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{cn|date=May 2013}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>erefm7fiyxv6kvyw9ee7t73zky91y2l</sha1>
+    </revision>
+    <revision>
+      <id>555664062</id>
+      <parentid>555474678</parentid>
+      <timestamp>2013-05-18T16:06:48Z</timestamp>
+      <contributor>
+        <username>Redalert2fan</username>
+        <id>17311078</id>
+      </contributor>
+      <comment>Added {{[[Template:cat improve|cat improve]]}} and {{[[Template:more footnotes|more footnotes]]}} tags to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{more footnotes|date=May 2013}}
+{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon=
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|''The Temple of Boom'' (1999) by Rob Birza]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn|date=May 2013}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city.
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn|date=May 2013}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{cn|date=May 2013}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]
+
+{{cat improve|date=May 2013}}</text>
+      <sha1>pezkm54pcpabpd5mqp8deddakn09zap</sha1>
+    </revision>
+    <revision>
+      <id>555664136</id>
+      <parentid>555664062</parentid>
+      <timestamp>2013-05-18T16:07:19Z</timestamp>
+      <contributor>
+        <username>Redalert2fan</username>
+        <id>17311078</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">
+{{Infobox city
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]&lt;br /&gt;
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon=
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|''The Temple of Boom'' (1999) by Rob Birza]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{cn|date=May 2013}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city.
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{cn|date=May 2013}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{cn|date=May 2013}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External Links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commonscat}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+[[Category:Districts in Utrecht (city)]]
+
+{{cat improve|date=May 2013}}</text>
+      <sha1>s0oi3p7mzqw0ue9xcam3ozw18okxbhw</sha1>
+    </revision>
+    <revision>
+      <id>559097163</id>
+      <parentid>555664136</parentid>
+      <timestamp>2013-06-09T18:03:07Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (9241)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+| Name = Lunetten
+| image=[[File:Map - NL - Utrecht - Wijk 07 Zuid - Subwijk Lunetten.svg|220px|Lunettes in the city of Utrecht]]&lt;br /&gt;Lunetten in the city of [[Utrecht]]&lt;br /&gt;[[File:Kaart lunetten utrecht.png|220px|A map of Lunetten on OpenStreetMap]]&lt;br /&gt;A map of Lunetten on [[OpenStreetMap]]
+| Type = Subwijk
+| Municipality=[[Utrecht]]
+| Dristict= [[Utrecht (provincie)|Utrecht-Zuid]]
+| Coordinates=
+| Area= 276,4 [[hectares|ha]]
+| Population= 11.564 ([[2011]])&lt;ref&gt;[http://utrecht.buurtmonitor.nl/ WistUdata Utrecht&lt;!-- Automatisch gegenereerde titel: verbeter de omschrijving als dat mogelijk is --&gt;]&lt;/ref&gt;
+| Density=
+| Postcode= 3524
+| Website=http://www.lunetten.nl
+| Weapon=
+}}
+[[Image:Lunetten - Kunstwerk De Champignon.jpg|thumb|''The Temple of Boom'' (1999) by Rob Birza]]
+'''Lunetten''' is a [[neighbourhood]]&lt;ref&gt;{{cite web|title=Lunetten|url=http://www.lunetten.nl/pub/index.php|publisher=lunetten.nl}}&lt;/ref&gt; in the southeastern part of the city of [[Utrecht]],&lt;ref&gt;{{cite news|first=Reageer|title=Lezing over de Lunetten|url=http://www.dichtbij.nl/noord-kennemerland/regionaal-nieuws/artikel/2805930/lezing-over-de-lunetten.aspx|accessdate=16 May 2013|newspaper=dichtbij.nl}}&lt;/ref&gt; that has approximately 12.000 inhabitants. It is mainly a [[residential area]], since there is no significant [[industry]] present. Lunetten was constructed as an urban experiment mostly during the 1970s and 80s. It was designed and planned by a combination of students of [[architecture]] and [[urban planning]] and the then foreseen future [[inhabitants]].{{citation needed|date=May 2013}} A result of this was the use of a ring-road with many circular bifurcations running back onto themselves or with dead ends. In [[Dutch language|Dutch]] this is called a ''Bloemkoolwijk'' (&quot;Cauliflower-neighborhood&quot;). This urban setup results in the whole neighbourhood becoming like a single [[living street]], much like a distinct village within a city.
+
+Lunetten has a network of alleyways connecting the inner courtyards of the urban blocks. This creates a child-friendly neighborhood with many playing spots. There are also many sports facilities within and around Lunetten.
+
+Lunetten is surrounded by major [[railroads]] and [[highways]]. To cope with the noise and [[pollution]] a giant park was created to surround and insulate the neighborhoud. Current infrastructural plans are however posing a threat to the park.{{citation needed|date=May 2013}}
+
+Lunetten has the longest (140 meters) lightweight bridge in the world with a weight of 400 tonnes (Viaduct Nieuwe Houtenseweg).{{citation needed|date=May 2013}} This was constructed on the [[Rijksweg 27|A27]] on the weekend of 3 and 4 March 2012.
+
+==External links==
+* [http://www.lunetten.nl Website Lunetten] (only in Dutch)
+
+==Sources==
+{{reflist|2}}
+
+{{Commons category}}
+{{coord|52|03|44|N|5|08|03|E|display=title|region:NL_source:nlwiki}}
+{{improve categories|date=May 2013}}
+
+[[Category:Districts in Utrecht (city)]]</text>
+      <sha1>d2n3jfyoqx8gljcpcmhho2plcysghmi</sha1>
+    </revision>
+	</page>
+</mediawiki>
